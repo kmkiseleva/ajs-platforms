@@ -1,0 +1,19 @@
+{
+  "name": "@kmkiseleva/ajs-platforms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmkiseleva/ajs-platforms.git"
+  },
+  "author": "km_kiseleva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kmkiseleva/ajs-platforms/issues"
+  },
+  "homepage": "https://github.com/kmkiseleva/ajs-platforms#readme"
+}
